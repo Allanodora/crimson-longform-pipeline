@@ -1,0 +1,155 @@
+{
+  "schema": "crimson.longform.visual_briefs.v1",
+  "briefs": [
+    {
+      "brief_id": "brief_0000",
+      "moment_id": "moment_0000",
+      "start": 0.0,
+      "end": 7.5,
+      "source_type": "reaction_support",
+      "entities": [
+        "football",
+        "reaction"
+      ],
+      "purpose": "punctuate the reaction with a meme or expressive graphic",
+      "search_query": "alone so man alone so what the end of the season now we are done what the heck",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "If unavailable: use a simple reaction card or keep host full-frame.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0001",
+      "moment_id": "moment_0001",
+      "start": 7.5,
+      "end": 13.16,
+      "source_type": "stat_card",
+      "entities": [
+        "football",
+        "stats",
+        "reaction"
+      ],
+      "purpose": "show the number beside the subject it describes",
+      "search_query": "what did we just waste our 90 minutes for we have been found out that defense",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "If unavailable: create a clean stat card and label the source for later verification.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0002",
+      "moment_id": "moment_0002",
+      "start": 13.16,
+      "end": 17.86,
+      "source_type": "host_primary",
+      "entities": [
+        "football"
+      ],
+      "purpose": "keep the talking head primary and add restrained emphasis",
+      "search_query": "doesn't exist that a whole back line basically doesn't exist three defenders",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "No external asset required; use crop, punch-in, caption emphasis, or sound accent.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0003",
+      "moment_id": "moment_0003",
+      "start": 17.86,
+      "end": 22.3,
+      "source_type": "host_primary",
+      "entities": [],
+      "purpose": "keep the talking head primary and add restrained emphasis",
+      "search_query": "seems to not be working at all the midfield is useless maybe one is",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "No external asset required; use crop, punch-in, caption emphasis, or sound accent.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0004",
+      "moment_id": "moment_0004",
+      "start": 22.3,
+      "end": 27.72,
+      "source_type": "stat_card",
+      "entities": [
+        "stats"
+      ],
+      "purpose": "show the number beside the subject it describes",
+      "search_query": "rested you had training and you come out with this losing 3-0 these guys do not",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "If unavailable: create a clean stat card and label the source for later verification.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0005",
+      "moment_id": "moment_0005",
+      "start": 27.72,
+      "end": 32.36,
+      "source_type": "host_primary",
+      "entities": [
+        "football"
+      ],
+      "purpose": "keep the talking head primary and add restrained emphasis",
+      "search_query": "put in they don't have any sense of urgency the season begins in January I",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "No external asset required; use crop, punch-in, caption emphasis, or sound accent.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0006",
+      "moment_id": "moment_0006",
+      "start": 32.36,
+      "end": 35.36,
+      "source_type": "host_primary",
+      "entities": [
+        "football"
+      ],
+      "purpose": "keep the talking head primary and add restrained emphasis",
+      "search_query": "think we have to just write off the first half of the season already I'm",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "No external asset required; use crop, punch-in, caption emphasis, or sound accent.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0007",
+      "moment_id": "moment_0007",
+      "start": 35.36,
+      "end": 39.8,
+      "source_type": "host_primary",
+      "entities": [],
+      "purpose": "keep the talking head primary and add restrained emphasis",
+      "search_query": "telling you honestly at this point all we're going to do is score a few goals",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "No external asset required; use crop, punch-in, caption emphasis, or sound accent.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    },
+    {
+      "brief_id": "brief_0008",
+      "moment_id": "moment_0008",
+      "start": 40.34,
+      "end": 42.6,
+      "source_type": "host_primary",
+      "entities": [],
+      "purpose": "keep the talking head primary and add restrained emphasis",
+      "search_query": "and we are so bad Crimson out",
+      "preferred_asset": "exact source first; preserve any useful source visual",
+      "fallback": "No external asset required; use crop, punch-in, caption emphasis, or sound accent.",
+      "rights_review": "LOCAL_REFERENCE_REVIEW",
+      "editable": true,
+      "locked": false
+    }
+  ]
+}

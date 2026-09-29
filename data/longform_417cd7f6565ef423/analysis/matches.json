@@ -1,0 +1,41 @@
+{
+  "schema": "crimson.longform.matches.v1",
+  "matches": [
+    {
+      "moment_id": "moment_0000",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0001",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0002",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0003",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0004",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0005",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0006",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0007",
+      "candidates": []
+    },
+    {
+      "moment_id": "moment_0008",
+      "candidates": []
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "schema": "crimson.longform.timeline.v1",
+  "project_id": "longform_417cd7f6565ef423",
+  "format": {
+    "master": "1920x1080",
+    "aspect": "16:9",
+    "derivatives": [
+      "9:16"
+    ]
+  },
+  "source": {
+    "path": "/Users/allanodora/Downloads/0920_football_hybrid_v18.mp4",
+    "immutable": true
+  },
+  "decisions": [
+    {
+      "decision_id": "decision_0000",
+      "moment_id": "moment_0000",
+      "start": 0.0,
+      "end": 7.5,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0000",
+      "selected_asset_id": null,
+      "treatment": "enhance_existing",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0001",
+      "moment_id": "moment_0001",
+      "start": 7.5,
+      "end": 13.16,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0001",
+      "selected_asset_id": null,
+      "treatment": "enhance_existing",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0002",
+      "moment_id": "moment_0002",
+      "start": 13.16,
+      "end": 17.86,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0002",
+      "selected_asset_id": null,
+      "treatment": "host_primary",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0003",
+      "moment_id": "moment_0003",
+      "start": 17.86,
+      "end": 22.3,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0003",
+      "selected_asset_id": null,
+      "treatment": "host_primary",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0004",
+      "moment_id": "moment_0004",
+      "start": 22.3,
+      "end": 27.72,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0004",
+      "selected_asset_id": null,
+      "treatment": "enhance_existing",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0005",
+      "moment_id": "moment_0005",
+      "start": 27.72,
+      "end": 32.36,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0005",
+      "selected_asset_id": null,
+      "treatment": "host_primary",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0006",
+      "moment_id": "moment_0006",
+      "start": 32.36,
+      "end": 35.36,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0006",
+      "selected_asset_id": null,
+      "treatment": "host_primary",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0007",
+      "moment_id": "moment_0007",
+      "start": 35.36,
+      "end": 39.8,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0007",
+      "selected_asset_id": null,
+      "treatment": "host_primary",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    },
+    {
+      "decision_id": "decision_0008",
+      "moment_id": "moment_0008",
+      "start": 40.34,
+      "end": 42.6,
+      "source_preservation": {
+        "preserve_existing_visual": true,
+        "replace_without_review": false
+      },
+      "visual_brief_id": "brief_0008",
+      "selected_asset_id": null,
+      "treatment": "host_primary",
+      "overlays": [],
+      "audio_cues": [],
+      "caption_style": "crimson_default",
+      "status": "needs_review",
+      "locked": false,
+      "notes": []
+    }
+  ],
+  "review": {
+    "current_revision": 1,
+    "render_requested": false,
+    "last_render": null
+  },
+  "qa": {
+    "timing": "pending",
+    "source_preservation": "pending",
+    "rights": "pending"
+  }
+}

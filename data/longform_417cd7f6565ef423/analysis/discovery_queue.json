@@ -1,0 +1,51 @@
+{
+  "schema": "crimson.longform.discovery.v1",
+  "channels": [
+    {
+      "channel_id": "rss_news",
+      "kind": "rss",
+      "enabled": true,
+      "topics": [
+        "football",
+        "press conference",
+        "match report"
+      ]
+    },
+    {
+      "channel_id": "official_media",
+      "kind": "api_or_feed",
+      "enabled": true,
+      "topics": [
+        "club",
+        "league",
+        "player"
+      ]
+    },
+    {
+      "channel_id": "saved_searches",
+      "kind": "search_queue",
+      "enabled": true,
+      "topics": [
+        "viral comment",
+        "meme",
+        "stat",
+        "quote"
+      ]
+    },
+    {
+      "channel_id": "manual_capture",
+      "kind": "drop_folder",
+      "enabled": true,
+      "topics": [
+        "user supplied asset"
+      ]
+    }
+  ],
+  "candidates": [],
+  "rules": {
+    "review_required": true,
+    "auto_insert": false,
+    "store_source_metadata": true,
+    "respect_access_controls": true
+  }
+}
