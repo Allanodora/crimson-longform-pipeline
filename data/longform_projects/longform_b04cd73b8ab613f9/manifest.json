@@ -8,7 +8,9 @@
     "sha256": "b04cd73b8ab613f960b217c21f81f57ae683b0b75483bab7aff16686265397a4",
     "bytes": 801489469,
     "modified_at": "2026-09-29T19:43:32.804125+00:00",
-    "immutable": true
+    "immutable": true,
+    "visual_layout_present": true,
+    "visual_layout_note": "Recording contains existing source visuals; preserve and enhance them before sourcing replacements."
   },
   "media": {
     "video": {
@@ -39,8 +41,8 @@
       "path": "data/longform_projects/longform_b04cd73b8ab613f9/media/waveform.npz"
     },
     "thumbnails": {
-      "status": "pending",
-      "path": null
+      "status": "complete",
+      "path": "data/longform_projects/longform_b04cd73b8ab613f9/media/thumbnails.jpg"
     },
     "transcript": {
       "status": "complete",
