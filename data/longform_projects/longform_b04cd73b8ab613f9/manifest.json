@@ -31,12 +31,12 @@
   },
   "processing": {
     "proxy": {
-      "status": "pending",
-      "path": null
+      "status": "complete",
+      "path": "data/longform_projects/longform_b04cd73b8ab613f9/media/proxy_540p.mp4"
     },
     "waveform": {
-      "status": "pending",
-      "path": null
+      "status": "complete",
+      "path": "data/longform_projects/longform_b04cd73b8ab613f9/media/waveform.npz"
     },
     "thumbnails": {
       "status": "pending",
