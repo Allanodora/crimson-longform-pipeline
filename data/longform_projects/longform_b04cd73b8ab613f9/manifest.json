@@ -43,12 +43,23 @@
       "path": null
     },
     "transcript": {
-      "status": "pending",
-      "path": null
+      "status": "complete",
+      "path": "/Users/allanodora/Documents/crimson content engine/crimson-longform-pipeline/data/longform_projects/longform_b04cd73b8ab613f9/analysis/transcript/2026-09-29 12-17-53.json"
     },
     "moment_map": {
-      "status": "pending",
-      "path": null
+      "status": "complete",
+      "path": "/Users/allanodora/Documents/crimson content engine/crimson-longform-pipeline/data/longform_projects/longform_b04cd73b8ab613f9/analysis/moment_map.json",
+      "count": 212
+    },
+    "visual_briefs": {
+      "status": "complete",
+      "path": "/Users/allanodora/Documents/crimson content engine/crimson-longform-pipeline/data/longform_projects/longform_b04cd73b8ab613f9/analysis/visual_briefs.json",
+      "count": 212
+    },
+    "timeline": {
+      "status": "complete",
+      "path": "/Users/allanodora/Documents/crimson content engine/crimson-longform-pipeline/data/longform_projects/longform_b04cd73b8ab613f9/analysis/timeline.json",
+      "count": 212
     }
   },
   "timeline": {
